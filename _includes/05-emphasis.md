@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*LAZY* __crazy__ __*sneezy*__ :stuck_out_tongue_winking_eye:
